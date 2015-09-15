@@ -1,0 +1,1 @@
+for x in {1..100};do mkdir -p $x; touch $x/$x.dat; done
