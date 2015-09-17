@@ -1,2 +1,0 @@
-"for x in {1..100};do mkdir -p $x; touch $x/$x.dat; done"
-{"patch":[[[[-1,"for x in {1..100};do mkdir -p $x; touch $x/$x.dat; done"]],0,0,55,0]],"time":1442304813863}
